@@ -1,3 +1,3 @@
 # Portfolio
 ```
-The Portfolio, Index, and Contact HTML files were all created in Visual Studio Code and made with HTML5.
+Portfolio showcasing my achievements and accolades during my academic time in school as well as relevant experience.
